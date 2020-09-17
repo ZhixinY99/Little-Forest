@@ -1,3 +1,1 @@
-# Little-Forest
-
-https://zhixiny99.github.io/Little-Forest/
+ # kittens starter
